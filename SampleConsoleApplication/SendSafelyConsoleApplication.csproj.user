@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <StartArguments>https://merrihealth.sendsafely.com lK8EHV7EEVR7af0apxxvlw XZx7ZLlpFKRgvn92z2GEMQ https://dc2vuercp01dev.blob.core.windows.net/site-bh/TimeLinexports%255C3867c4f2-6ba1-498f-80b1-e69fbc1fe486.pdf%3fsv=2018-03-28&amp;sr=b&amp;sig=7PKAOvb8bS5c4muzhtrMBJGc7TupjVGBqnHhThINITQ%253D&amp;st=2020-01-30T10%253A13%253A12Z&amp;se=2020-01-30T11%253A13%253A12Z&amp;sp=r kasun%40datacaptureexperts.com.au</StartArguments>
+  </PropertyGroup>
+</Project>
